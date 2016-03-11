@@ -1,6 +1,6 @@
 # GC Content Calculator
 **This is a shell command program that was run in bash.**
-#! /bin/bash
+ /bin/bash
 **The fasta file was called using the following variable for the program**
 input of the fasta file=`cat $1`
 **To find all of the headers for the different sampled DNA sequences of the fasta file, the following command was used to capture them**
